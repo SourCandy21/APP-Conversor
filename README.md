@@ -20,7 +20,7 @@ Este é um aplicativo mobile de conversão de moedas desenvolvido em **React Nat
 
 ## 📱 Preview da Interface
 
-![Imagem do WhatsApp de 2025-08-05 à(s) 22 55 16_456c7522](https://github.com/user-attachments/assets/d8bb9d2d-47dc-418a-b349-f34fafd5aa3d)
+<img height="700em"  src="https://github.com/user-attachments/assets/d8bb9d2d-47dc-418a-b349-f34fafd5aa3d">
 
 
 ---
@@ -100,8 +100,14 @@ https://api.exchangerate-api.com/v4/latest/{moeda}
 
 ## 👨‍💻 Autor
 
-Feito por **[Seu Nome]**  
-📫 [Seu email ou LinkedIn, opcional]  
+Feito por **𝒜𝒷𝓃𝑒𝓇**  
+<br>
+📫 [ <a href="mailto: abcdmartins40@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a> 
+  <a href="https://www.linkedin.com/in/abner-camargo-b28009258/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>]  
 
 ---
 
